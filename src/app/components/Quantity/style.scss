@@ -1,0 +1,19 @@
+.quantityWrapper{
+  display: flex;
+}
+
+.quantityBtLeft {
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+  }
+
+.quantityBtRight {
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+
+.quantityValue {
+  border: 1px solid black;
+  width: 25px;
+  text-align: center;
+}
